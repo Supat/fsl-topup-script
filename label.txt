@@ -1,0 +1,12 @@
+HMAT_Left_M1.nii
+HMAT_Left_PMd.nii
+HMAT_Left_PMv.nii
+HMAT_Left_S1.nii
+HMAT_Left_SMA.nii
+HMAT_Left_preSMA.nii
+HMAT_Right_M1.nii
+HMAT_Right_PMd.nii
+HMAT_Right_PMv.nii
+HMAT_Right_S1.nii
+HMAT_Right_SMA.nii
+HMAT_Right_preSMA.nii

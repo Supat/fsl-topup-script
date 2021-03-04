@@ -30,7 +30,7 @@ set fmri(featwatcher_yn) 0
 set fmri(sscleanup_yn) 0
 
 # Output directory
-set fmri(outputdir) "preprocess.feat"
+set fmri(outputdir) "<OUTPUT>.feat"
 
 # TR(s)
 set fmri(tr) 0.800000

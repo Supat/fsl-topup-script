@@ -2,7 +2,7 @@ addpath("/Users/Sui/Documents/MATLAB/FSLNets");
 addpath("/usr/local/fsl/etc/matlab")
 addpath("/Users/Sui/Documents/MATLAB/libsvm/matlab");
 
-ts = nets_load('group_post_rest', 0.8, 0);
+ts = nets_load('group_post_rest', 0.8, 1);
 
 ts_spectra = nets_spectra(ts);
 
